@@ -1,6 +1,6 @@
 package com.example.divide;
 
-public class Shape {
+public abstract class Shape {
     int x;
     int y;
 }
