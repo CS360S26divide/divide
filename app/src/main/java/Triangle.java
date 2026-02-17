@@ -1,6 +1,7 @@
 public class Triangle extends Shape {
     private int base;
     private int height;
+    private String color = "blue";
 
     public Triangle(int x, int y, int base, int height) {
         this.x = x;
